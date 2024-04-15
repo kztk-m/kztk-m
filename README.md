@@ -1,6 +1,6 @@
 ### About Me
 
-A researcher on functional programming working at Tohoku University. For more information, see [my web page](https://www2.sf.ecei.tohoku.ac.jp/kztk/). 
+A researcher on functional programming working at Tohoku University. For more information, see [my web page](https://www2.sf.ecei.tohoku.ac.jp/~kztk/). 
 
 ### Some Projects Hosted on GitHub
 
