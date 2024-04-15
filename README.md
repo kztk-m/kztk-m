@@ -1,8 +1,8 @@
 ### About Me
 
-A researcher on functional programming working currently at Tohoku University. See [my web page](https://www2.sf.ecei.tohoku.ac.jp/~kztk/) for more information. 
+A researcher on functional programming working at Tohoku University. For more information, see [my web page](https://www2.sf.ecei.tohoku.ac.jp/kztk/). 
 
-### Some Projects Hosted on GitHub Showcase
+### Some Projects Hosted on GitHub
 
 - [An implementation of an implementation technique of embedded DSLs called "Embedding by Unembedding"](https://github.com/kztk-m/EbU) and [its examples](https://github.com/kztk-m/EbU-examples)
 - [Sparcl: a partially-invertible programming language](https://github.com/kztk-m/sparcl) and [its correctness proof in Agda](https://github.com/kztk-m/sparcl-agda)
