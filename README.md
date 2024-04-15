@@ -4,7 +4,7 @@ A researcher on functional programming working at Tohoku University. For more in
 
 ### Some Projects Hosted on GitHub
 
-- [An implementation of an implementation technique of embedded DSLs called "Embedding by Unembedding"](https://github.com/kztk-m/EbU) and [its examples](https://github.com/kztk-m/EbU-examples)
+- [An implementation technique of embedded DSLs called "Embedding by Unembedding"](https://github.com/kztk-m/EbU) and [its examples](https://github.com/kztk-m/EbU-examples)
 - [Sparcl: a partially-invertible programming language](https://github.com/kztk-m/sparcl) and [its correctness proof in Agda](https://github.com/kztk-m/sparcl-agda)
 - [An embedded language for invertible pretty printer](https://github.com/kztk-m/flippre)
 
