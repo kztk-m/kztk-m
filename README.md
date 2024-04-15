@@ -1,4 +1,14 @@
-### Hi there 👋
+### About Me
+
+A researcher on functional programming working currently at Tohoku University. See [my web page](https://www2.sf.ecei.tohoku.ac.jp/~kztk/) for more information. 
+
+### Some Projects Hosted on GitHub Showcase
+
+- [An implementation of an implementation technique of embedded DSLs called "Embedding by Unembedding"](https://github.com/kztk-m/EbU) and [its examples](https://github.com/kztk-m/EbU-examples)
+- [Sparcl: a partially-invertible programming language](https://github.com/kztk-m/sparcl) and [its correctness proof in Agda](https://github.com/kztk-m/sparcl-agda)
+- [An embedded language for invertible pretty printer](https://github.com/kztk-m/flippre)
+
+
 
 <!--
 **kztk-m/kztk-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
